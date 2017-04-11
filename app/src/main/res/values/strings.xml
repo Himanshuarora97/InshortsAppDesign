@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InshortsAppDesign</string>
+    <string name="bottom_content">Life would be much easier</string>
+    <string name="bottom_title">Everyone should learn how to code</string>
+    <string name="highlight_text">more at Code Times / Not today</string>
+    <string name="bottom_description">bottom_image_blur</string>
+    <string name="top_image">Main image</string>
 </resources>

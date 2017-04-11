@@ -10,7 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class NewsFragment extends Fragment {
-    View view;
+    private TextView contentText,titleText;
+    private ImageView topImage,downImage;
+    private View view;
     private static final String NUM = "NUMBER";
     public static NewsFragment newInstance(int number){
         NewsFragment newsFragment = new NewsFragment();
